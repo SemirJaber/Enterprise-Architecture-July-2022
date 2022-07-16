@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/LibraryApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/BookApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/LibraryApplicationClient/pom.xml" />
+        <option value="$PROJECT_DIR$/BookApplicationClient/pom.xml" />
+        <option value="$PROJECT_DIR$/BookApplicationserver/pom.xml" />
+        <option value="$PROJECT_DIR$/ServerLibraryAppserver/pom.xml" />
+        <option value="$PROJECT_DIR$/LibraryAppserver/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK" />
+</project>
